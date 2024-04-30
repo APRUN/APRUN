@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=APRUN&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='[https://randommeme-five.vercel.app/](https://plaky.com/blog/wp-content/uploads/2023/08/Sayonara.jpg)' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=APRUN&icon=4&color=1)](https://visitcount.itsvg.in)
