@@ -1,7 +1,6 @@
 # 💫 About Me:
 About Me :<br>🖥️ I'm currently working on a GenAI project for a medical assistant chatbot and optimizing course scheduling using Gurobi.<br>🤝 I'm looking to collaborate on AI/ML projects, healthcare tech, and full-stack web development.<br>🆘 I'm looking for help with fine-tuning BERT for medical NLP tasks and advanced optimization techniques.<br>🌱 I'm currently learning Next.js, Tailwind CSS, and medical code automation (ICD-10, SNOMED).<br>💬 Ask me about .NET development, AI/ML, web scraping, and portfolio design.<br>⚡ Fun fact: I successfully conducted a 3-day ML workshop (Marvel Edition)!
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Khalil Ahmad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Khalil Ahmad) 
 
@@ -23,5 +22,3 @@ About Me :<br>🖥️ I'm currently working on a GenAI project for a medical ass
 
 ---
 [![](https://visitcount.itsvg.in/api?id=APRUN&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
